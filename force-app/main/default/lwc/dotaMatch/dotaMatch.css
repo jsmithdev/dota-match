@@ -1,0 +1,10 @@
+lightning-card {
+    text-align: center;
+    display: block;
+    width: 50vw;
+}
+
+pre {
+    text-align: left;
+    padding-left: 2.4rem;
+}   
